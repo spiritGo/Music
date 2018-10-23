@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/rotateIcon"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="110dp"
+        android:contentDescription="@string/image"
+        android:src="@drawable/default_cover"/>
+
+    <ImageView
+        android:id="@+id/outLine"
+        android:layout_width="260dp"
+        android:layout_height="260dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="70dp"
+        android:contentDescription="@string/image"
+        android:src="@drawable/play_page_disc" />
+
+    <ImageView
+        android:id="@+id/needle"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/image"
+        android:src="@drawable/play_page_needle" />
+
+</FrameLayout>

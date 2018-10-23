@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/functionSetting"
+            android:icon="@drawable/ic_menu_settings"
+            android:title="@string/functionSetting" />
+        <item
+            android:id="@+id/nightModel"
+            android:icon="@drawable/ic_menu_night"
+            android:title="@string/nightModel" />
+        <item
+            android:id="@+id/timer"
+            android:icon="@drawable/ic_menu_timer"
+            android:title="@string/timer" />
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/ic_menu_exit"
+            android:title="@string/exit" />
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_menu_about"
+            android:title="@string/about" />
+    </group>
+
+</menu>

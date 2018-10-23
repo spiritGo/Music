@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="image">image</string>
+    <string name="boniyinyue">波尼音乐</string>
+    <string name="copyright">Copyright © 2015–2018 SWUST</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">关于波尼音乐</string>
+    <string name="exit">退出应用</string>
+    <string name="timer">定时停止播放</string>
+    <string name="nightModel">夜间模式</string>
+    <string name="functionSetting">功能设置</string>
+    <string name="mMusic">我的音乐</string>
+    <string name="onLineMusic">在线音乐</string>
+</resources>
